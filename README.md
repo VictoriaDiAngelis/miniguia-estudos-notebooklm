@@ -23,7 +23,8 @@ Este projeto foi desenvolvido como parte de um desafio prático utilizando o **N
 
 Este projeto foi desenvolvido como parte de um desafio prático com o objetivo de explorar o NotebookLM como ferramenta de apoio aos estudos. Para isso, foi criado um caderno temático sobre **Inteligência Artificial (IA)** utilizando fontes confiáveis, como artigos, materiais acadêmicos, documentação técnica e conteúdo audiovisual.
 
-Ao longo do projeto, o NotebookLM foi utilizado para organizar as informações, gerar resumos, construir um glossário, responder perguntas e auxiliar na criação de um material de estudo estruturado.
+Durante o desenvolvimento do projeto, o NotebookLM foi utilizado para organizar as informações, gerar resumos, construir um glossário, responder perguntas e auxiliar na criação de um material de estudo estruturado.
+
 ---
 
 ## 🎯 Objetivos
