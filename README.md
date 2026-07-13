@@ -228,7 +228,27 @@ Os prompts abaixo podem ser reutilizados em qualquer notebook para facilitar os 
 
 ## 📷 Capturas de Tela
 
-*Em construção.*
+### Fontes carregadas no NotebookLM
+
+![Fontes](imagens/Fontes.png)
+
+---
+
+### Resumo gerado pelo NotebookLM
+
+![Resumo](imagens/resumo.png)
+
+---
+
+### Glossário
+
+![Glossário](imagens/Glossário.png)
+
+---
+
+### Perguntas de revisão
+
+![Perguntas](imagens/Perguntas.png)
 
 ---
 
