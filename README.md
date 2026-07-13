@@ -83,7 +83,13 @@ Esse prompt foi utilizado para definir o contexto da conversa e garantir que as 
 
 ## 🛠️ Cicatrizes (Troubleshooting)
 
-*Em construção.*
+Durante a utilização do NotebookLM, alguns aprendizados importantes foram observados:
+
+- No primeiro prompt, foi definido que todas as respostas deveriam ser apresentadas em português do Brasil, de forma clara e organizada. Isso ajudou a manter um padrão durante toda a conversa.
+- Também foi solicitado que a ferramenta utilizasse apenas as informações presentes nas fontes adicionadas ao notebook. Apesar de o NotebookLM naturalmente priorizar essas fontes, essa instrução tornou o objetivo das consultas mais explícito.
+- As respostas apresentaram referências às fontes utilizadas, facilitando a verificação das informações e aumentando a confiabilidade do material produzido.
+- Não foi necessário reformular os prompts durante o desenvolvimento, pois as respostas atenderam às expectativas desde as primeiras consultas.
+- A principal lição aprendida foi que prompts objetivos e bem contextualizados geram respostas mais organizadas e adequadas para a criação de materiais de estudo.
 
 ---
 
