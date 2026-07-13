@@ -95,7 +95,74 @@ Durante a utilização do NotebookLM, alguns aprendizados importantes foram obse
 
 ## 📘 Miniguia de Estudos
 
-*Em construção.*
+### 🤖 O que é Inteligência Artificial?
+
+A Inteligência Artificial (IA) é um ramo da Ciência da Computação que busca desenvolver sistemas capazes de simular habilidades humanas, como aprender, raciocinar, resolver problemas e tomar decisões. Seu funcionamento é baseado na análise de grandes volumes de dados para identificar padrões e gerar respostas ou previsões.
+
+---
+
+### 📜 História
+
+- **1950:** Alan Turing propõe o Teste de Turing para avaliar a inteligência de máquinas.
+- **1956:** John McCarthy apresenta oficialmente o termo "Inteligência Artificial".
+- **Décadas de 1980 e 1990:** Popularização dos Sistemas Especialistas.
+- **Século XXI:** Avanço impulsionado pelo Big Data, aumento do poder computacional e uso de GPUs.
+- **Atualidade:** Expansão da IA Generativa e dos Grandes Modelos de Linguagem (LLMs).
+
+---
+
+### 🧠 Principais Tipos de IA
+
+- **Machine Learning:** algoritmos aprendem a partir de dados.
+- **Deep Learning:** utiliza redes neurais profundas para resolver problemas complexos.
+- **IA Generativa:** cria conteúdos como textos, imagens, vídeos e códigos.
+- **IA Restrita (Fraca):** especializada em tarefas específicas.
+- **IA Geral (AGI):** conceito teórico de uma IA capaz de realizar qualquer tarefa intelectual humana.
+
+---
+
+### 💼 Aplicações
+
+A Inteligência Artificial está presente em diversas áreas, como:
+
+- Saúde
+- Finanças
+- Indústria
+- Comércio
+- Arquivologia
+- Robótica
+- Assistentes Virtuais
+- Desenvolvimento de software
+
+---
+
+### ✅ Benefícios
+
+- Automação de tarefas repetitivas.
+- Redução de erros humanos.
+- Processamento rápido de grandes volumes de dados.
+- Apoio à tomada de decisão.
+- Funcionamento contínuo (24 horas por dia).
+
+---
+
+### ⚠️ Desafios
+
+- Viés nos dados.
+- Segurança e privacidade.
+- Alto custo computacional.
+- Falta de transparência em alguns modelos.
+- Questões éticas e regulatórias.
+
+---
+
+### 🚀 Tendências Futuras
+
+- IA Agêntica.
+- Modelos Multimodais.
+- IA Responsável.
+- Expansão da IA Generativa.
+- Crescimento do impacto econômico da tecnologia.
 
 ---
 
