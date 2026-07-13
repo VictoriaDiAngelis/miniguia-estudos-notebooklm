@@ -38,7 +38,22 @@ Ao longo do projeto, o NotebookLM foi utilizado para organizar as informações,
 
 ## 📚 Curadoria de Fontes
 
-*Em construção.*
+Para a construção do caderno temático, foram selecionadas fontes abertas e confiáveis que abordam os fundamentos, aplicações e desafios da Inteligência Artificial.
+
+1. **IBM – O que é Inteligência Artificial?**  
+   https://www.ibm.com/br-pt/think/topics/artificial-intelligence
+
+2. **Universidade de Brasília (UnB) – Perspectivas de aplicação de Inteligência Artificial em Arquivos (PDF)**  
+   https://arquivistica.fci.unb.br/wp-content/uploads/tainacan-items/476350/961406/Perspectivas-de-aplicacao-de-inteligencia-artificial-em-arquivos.pdf
+
+3. **Universidade Estadual do Ceará (UECE) – Inteligência Artificial (PDF)**  
+   https://www.uece.br/cct/wp-content/uploads/sites/28/2021/07/Intelige%CC%82ncia-Artificial.pdf
+
+4. **NVIDIA – Artificial Intelligence Glossary**  
+   https://www.nvidia.com/en-sg/glossary/artificial-intelligence/
+
+5. **Vídeo do YouTube sobre Inteligência Artificial**  
+   https://www.youtube.com/watch?v=qYNweeDHiyU
 
 ---
 
