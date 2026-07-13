@@ -21,13 +21,18 @@ Este projeto foi desenvolvido como parte de um desafio prático utilizando o **N
 
 ## 📖 Contexto
 
-*Em construção.*
+Este projeto foi desenvolvido como parte de um desafio prático com o objetivo de explorar o NotebookLM como ferramenta de apoio aos estudos. Para isso, foi criado um caderno temático sobre **Inteligência Artificial (IA)** utilizando fontes confiáveis, como artigos, materiais acadêmicos, documentação técnica e conteúdo audiovisual.
 
+Ao longo do projeto, o NotebookLM foi utilizado para organizar as informações, gerar resumos, construir um glossário, responder perguntas e auxiliar na criação de um material de estudo estruturado.
 ---
 
 ## 🎯 Objetivos
 
-*Em construção.*
+- Compreender os conceitos fundamentais da Inteligência Artificial.
+- Identificar os principais tipos de IA e suas características.
+- Conhecer aplicações práticas da IA em diferentes áreas.
+- Estudar os benefícios, desafios e tendências futuras da tecnologia.
+- Explorar o NotebookLM como ferramenta para organização do conhecimento e apoio aos estudos.
 
 ---
 
