@@ -168,7 +168,23 @@ A Inteligência Artificial está presente em diversas áreas, como:
 
 ## 📖 Glossário
 
-*Em construção.*
+| Termo | Definição |
+|-------|-----------|
+| **Inteligência Artificial (IA)** | Tecnologia que busca simular a capacidade humana de aprender, raciocinar, resolver problemas e tomar decisões. |
+| **Machine Learning** | Área da IA em que algoritmos aprendem padrões a partir de dados. |
+| **Deep Learning** | Subárea do Machine Learning que utiliza redes neurais com múltiplas camadas. |
+| **IA Generativa** | Modelos capazes de criar textos, imagens, vídeos, áudios e códigos. |
+| **Grandes Modelos de Linguagem (LLMs)** | Modelos treinados em grandes volumes de texto para compreender e gerar linguagem natural. |
+| **Agente de IA** | Programa que percebe o ambiente e executa ações para atingir objetivos específicos. |
+| **IA Agêntica** | Sistema composto por múltiplos agentes capazes de realizar tarefas complexas de forma autônoma. |
+| **Aprendizado Supervisionado** | Método de treinamento utilizando dados previamente rotulados. |
+| **Aprendizado Não Supervisionado** | Método que identifica padrões em dados sem rótulos. |
+| **Aprendizado por Reforço** | Aprendizado baseado em tentativa e erro utilizando recompensas e penalidades. |
+| **Redes Neurais Artificiais** | Modelos computacionais inspirados no funcionamento dos neurônios humanos. |
+| **Processamento de Linguagem Natural (PLN)** | Área da IA dedicada à compreensão e geração da linguagem humana. |
+| **Teste de Turing** | Método proposto por Alan Turing para avaliar se uma máquina demonstra comportamento inteligente semelhante ao humano. |
+| **Modelos de Fundação** | Modelos de IA treinados em grande escala e adaptáveis para diversas tarefas. |
+| **Ética e Governança de IA** | Conjunto de princípios que busca garantir uma IA segura, transparente e responsável. |
 
 ---
 
