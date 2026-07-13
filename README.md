@@ -190,7 +190,39 @@ A Inteligência Artificial está presente em diversas áreas, como:
 
 ## 💡 Prompts Reutilizáveis
 
-*Em construção.*
+Os prompts abaixo podem ser reutilizados em qualquer notebook para facilitar os estudos:
+
+### 📚 Resumo
+
+> Faça um resumo organizado em tópicos utilizando apenas as informações presentes nas fontes.
+
+### 👨‍🏫 Explicação simples
+
+> Explique este assunto como se eu fosse um estudante iniciante.
+
+### 📖 Glossário
+
+> Crie um glossário com os principais conceitos encontrados nas fontes.
+
+### ⚖️ Comparação
+
+> Compare os principais conceitos apresentados nas fontes e destaque suas diferenças.
+
+### 📝 Revisão
+
+> Gere 10 perguntas de revisão sobre este conteúdo sem apresentar as respostas.
+
+### ✅ Correção
+
+> Agora responda às perguntas utilizando apenas as informações presentes nas fontes.
+
+### 📄 Resumo executivo
+
+> Produza um resumo executivo em até uma página.
+
+### 🎓 Preparação para prova
+
+> Quais são os tópicos mais importantes que preciso estudar para uma prova sobre este assunto?
 
 ---
 
