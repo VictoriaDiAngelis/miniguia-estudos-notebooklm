@@ -254,4 +254,6 @@ Os prompts abaixo podem ser reutilizados em qualquer notebook para facilitar os 
 
 ## ✅ Conclusão
 
-*Em construção.*
+O desenvolvimento deste projeto permitiu explorar o NotebookLM como uma ferramenta de apoio aos estudos e organização do conhecimento. A partir da curadoria de fontes confiáveis, foi possível gerar resumos, construir um glossário, elaborar perguntas de revisão e consolidar um material de estudo estruturado sobre Inteligência Artificial.
+
+Além de ampliar meus conhecimentos sobre o tema, a atividade demonstrou a importância da engenharia de prompts para obter respostas claras, objetivas e alinhadas às fontes utilizadas. A experiência mostrou que o NotebookLM pode ser um excelente recurso para estudantes e profissionais que desejam transformar grandes volumes de informação em materiais de estudo organizados e de fácil consulta.
