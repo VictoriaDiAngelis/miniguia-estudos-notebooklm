@@ -230,25 +230,25 @@ Os prompts abaixo podem ser reutilizados em qualquer notebook para facilitar os 
 
 ### Fontes carregadas no NotebookLM
 
-![Fontes](imagens/fontes.png)
+![Fontes](imagens/fontes.PNG)
 
 ---
 
 ### Resumo gerado pelo NotebookLM
 
-![Resumo](imagens/resumo.png)
+![Resumo](imagens/resumo.PNG)
 
 ---
 
 ### Glossário
 
-![Glossário](imagens/glossário.png)
+![Glossário](imagens/glossário.PNG)
 
 ---
 
 ### Perguntas de revisão
 
-![Perguntas](imagens/perguntas.png)
+![Perguntas](imagens/perguntas.PNG)
 
 ---
 
